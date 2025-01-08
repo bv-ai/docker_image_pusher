@@ -1,1 +1,1 @@
-https://github.com/digininja/DVWA/releases/tag/2.4
+DVWA 2.4
