@@ -1,1 +1,1 @@
-DVWA 2.4
+digininja/DVWA 2.4
