@@ -1,1 +1,1 @@
-docker-dvwa
+DVWA2.4
