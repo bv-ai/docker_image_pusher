@@ -5,4 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 sagikazarmark/docker-dvwa
-
+#支持制订架构
+--platform-linux/arm64
