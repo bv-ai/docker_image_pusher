@@ -1,1 +1,1 @@
-dvwa
+sagikazarmark/docker-dvwa
